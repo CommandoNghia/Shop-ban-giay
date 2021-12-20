@@ -8,5 +8,5 @@ use Illuminate\Database\Eloquent\Model;
 class Helo extends Model
 {
     use HasFactory;
-    test a zai;
+    test thoi ma lam gi cang;
 }
